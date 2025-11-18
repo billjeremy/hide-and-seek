@@ -2,10 +2,6 @@
 
 This project generates random rooted trees (arborescences), creates folder structures on disk to represent the trees, and distributes positive/negative sample files across folders according to configurable hyperparameters.
 
-What I changed
-- Reduced comment verbosity and converted main docstrings/messages to concise English.
-- Standardized folder names to English (`Folder_` and `folder_`).
-- Added README, .gitignore and MIT license.
 
 Quick start
 1. Create a virtualenv and install requirements from `requirements.txt` (if present).
