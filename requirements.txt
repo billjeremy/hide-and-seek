@@ -1,0 +1,6 @@
+graphviz
+networkx
+graphviz
+matplotlib
+scipy
+tqdm

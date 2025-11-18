@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+venv/
+env/
+.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+# Graphviz outputs
+*.dot
+*.png
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+
+# Ignore generated env test folders
+/env_test_complet/
+/env_test_complet*/
