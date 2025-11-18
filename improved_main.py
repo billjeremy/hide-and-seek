@@ -1,5 +1,5 @@
-from arbo import TreeHyperparams, TreeGeneratorShow, TreeVisualizer, TreeAnalyzer
-from file_distribution_refactored import FileDistributionHyperparams, FileDistributionGenerator
+from graph.arbo import TreeHyperparams, TreeGeneratorShow, TreeVisualizer, TreeAnalyzer
+from graph.file_distribution_refactored import FileDistributionHyperparams, FileDistributionGenerator
 import shutil
 import os
 import csv

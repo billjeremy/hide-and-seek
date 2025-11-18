@@ -1,4 +1,4 @@
-from arbo import TreeHyperparams, TreeGeneratorShow, TreeVisualizer
+from graph.arbo import TreeHyperparams, TreeGeneratorShow, TreeVisualizer
 
 import shutil
 import os
