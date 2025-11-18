@@ -19,4 +19,4 @@ python improved_main.py
 Notes
 - The main entrypoint is `improved_main.py`.
 - Visualization functions use Graphviz; install `graphviz` system package if you want PNG outputs.
-- If you want all comments and internal variable names converted to English, I can do a further pass to rename variables and update all references.
+
